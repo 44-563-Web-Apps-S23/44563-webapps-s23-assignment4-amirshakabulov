@@ -1,0 +1,63 @@
+.speech{
+    font: "Courier New";
+    font-size: 20px;
+    color: rgb(0, 0 , 0);
+}
+
+.direction{
+    font: "Ariel";
+    font-size: 14px;
+    color: black;
+    background-color: rgb(231, 231, 231);
+
+}
+.name{
+    font: "Ariel";
+    font-size: 22px;
+    color: black;
+}
+.direction:hoover{
+    color: burlywood;
+    background-color: black;
+}
+.OLLIVANT{
+    color:brown;
+}
+.MARY{
+    color:darkgreen;
+}
+.EMILY{
+    color: rgb(95, 80, 140);
+}
+
+table{
+	border: solid 4px;
+	margin: auto;
+	color: blue;
+	text-align: center;
+	border-collapse: collapse;
+}
+th, td {
+	border: dashed 2px;
+	padding: 20px;
+}
+
+ul.navigator {
+	
+	list-style-type: none;
+	margin: 0;
+	padding: 0;  
+}
+  
+ul.navigator li {
+	float:left;
+	color:#000;
+	background-color:rgb(198, 157, 236);
+	border: 1px solid ;
+	border-collapse: collapse;
+}
+  
+ul.navigator a {
+	display:block;
+	padding:20px;
+}
