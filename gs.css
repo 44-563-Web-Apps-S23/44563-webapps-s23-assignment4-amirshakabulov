@@ -11,15 +11,20 @@
     background-color: rgb(231, 231, 231);
 
 }
+.direction:hover{
+	color: rgb(250, 248, 176);
+	background-color:black ;
+}
 .name{
     font: "Ariel";
     font-size: 22px;
     color: black;
 }
-.direction:hoover{
-    color: burlywood;
-    background-color: black;
+.name:hover{
+	text-shadow: 5px 5px 5px rgb(225, 249, 15);
+	filter: blur(1px);	
 }
+
 .OLLIVANT{
     color:brown;
 }
